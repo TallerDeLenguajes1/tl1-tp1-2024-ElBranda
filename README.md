@@ -30,5 +30,15 @@ git commit -m "Agregado archivo .gitignore"
 git push origin main
 ```
 
+## Si resolvió correctamente los apartados 2 y 3 del punto anterior notará que el resultado es el mismo
+### ¿A qué se debe?
+Porque la variable puntero (p) guarda la dirección de memoria de la variable (a).
+
+### ¿Qué obtiene en el punto 4?
+La dirección de memoria de la propia variable puntero (p).
+
+### ¿Es igual a los anteriores? ¿Por qué?
+NO. Porque la dirección que guarda la variable puntero (p) es distinta a su propia dirección.
+
 ## Autor
 * **Martín Brandalisi** - [ElBranda](https://github.com/ElBranda)
